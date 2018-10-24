@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="EUC-KR">
+    <title>css</title>
+    <link href="https://fonts.googleapis.com/css?family=Charmonman|Krub" rel="stylesheet">
+    <style>
+        p:first-child {
+            font-size: 150%;
+            font-style: italic;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <p>font Test</p>
+</body>
+
+</html>

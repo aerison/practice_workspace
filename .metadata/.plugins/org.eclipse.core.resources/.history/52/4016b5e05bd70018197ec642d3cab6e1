@@ -1,0 +1,13 @@
+@charset "EUC-KR";
+
+#div_main{
+    text-align: center;
+    align-content: center;
+    
+}
+#div_btn{
+    width: 70%;
+    height: 100px;
+    text-align: center;
+    align-content: center;
+}

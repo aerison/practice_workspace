@@ -1,0 +1,13 @@
+@charset "EUC-KR";
+
+#photo_tr{
+    background-color: #ebe8ed;
+}
+
+#div_tbl>table{
+    width: 100%;
+    text-align: center;
+    align-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}

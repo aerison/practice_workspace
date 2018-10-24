@@ -1,0 +1,5 @@
+@charset "EUC-KR";
+
+#photo_tr{
+    background-color: #ebe8ed;
+}

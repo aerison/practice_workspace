@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="EUC-KR">
+    <title>workshopmytable</title>
+</head>
+
+<body>
+    <div id="div_main">
+        <div id="div_btn">
+            <input type="button" value="Pants" name="p">
+            <input type="button" value="Accessory" name="a">
+            <input type="button" value="Shirts" name="s">
+            <input type="button" value="Dress" name="d">
+        </div>
+        <div id="div_tbl">
+
+            <table border="1">
+                <caption> Antenna Shop </caption>
+                <tbody>
+                    <tr>
+                        <th>Item</th>
+                        <th>Pants</th>
+                        <th>Accessory</th>
+                        <th>Shirts</th>
+                        <th>Dress</th>
+                    </tr>
+                    <tr style="background-color: #E8F5FF;">
+                        <th>&nbsp;</th>
+                        <th><img src="p.PNG"></th>
+                        <th><img src="a.PNG"></th>
+                        <th><img src="s.PNG"></th>
+                        <th><img src="d.PNG"></th>
+                        
+                    </tr>
+
+                     <tr>
+                        <th>code</th>
+                        <th>p102202</th>
+                        <th>a210240</th>
+                        <th>s215800</th>
+                        <th>d120212</th>
+                    </tr>
+                    <tr>
+                        <th>Volume</th>
+                        <th>300</th>
+                        <th>266</th>
+                        <th>120</th>
+                        <th>59</th>
+                    </tr>
+                    <tr>
+                        <th>price</th>
+                        <th>26,000</th>
+                        <th>37,000</th>
+                        <th>42,000</th>
+                        <th>70,000</th>
+                    </tr>
+                   
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+
+</body>
+
+</html>

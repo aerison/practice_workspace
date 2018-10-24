@@ -1,0 +1,18 @@
+@charset "EUC-KR";
+
+#div_main{
+    text-align: center;
+    
+}
+#div_btn{
+    width: 70%;
+    height: 100px;
+    text-align: center;
+    border: 1px solid #c3c3c3;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-align-content: center;
+    align-content: center;
+}

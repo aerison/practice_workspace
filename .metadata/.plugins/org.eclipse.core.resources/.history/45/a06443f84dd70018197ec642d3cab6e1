@@ -1,0 +1,23 @@
+@charset "EUC-KR";
+@import url('https://fonts.googleapis.com/css?family=Charmonman|Krub|Pacifico');
+h3 {
+    font-family: 'Pacifico', cursive;
+    background-color: pink;
+    color: #5CD1E5;
+    text-align: center;
+    letter-spacing: 10px;
+    line-height: 100px;
+}
+
+p:first-child {
+    font-family: 'Charmonman', cursive;
+    font-size: 150%;
+    font-style: italic;
+    font-weight: bold;
+}
+
+p:last-child {
+    font-family: 'Pacifico', cursive;
+    font-size: 100%;
+    font-weight: bold;
+}

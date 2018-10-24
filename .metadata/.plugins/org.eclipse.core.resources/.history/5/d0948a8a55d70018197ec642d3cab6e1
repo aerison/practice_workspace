@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="EUC-KR">
+    <title>workshopmytable</title>
+</head>
+
+<body>
+    <div id="div_main">
+        <div id="div_btn">
+<input type="button" value="Pants" name="p">
+<input type="button" value="Caps" name="c">
+<input type="button" value="Shirts" name="s">
+<input type="button" value="Dress" name="d">
+        </div>
+        <div id="div_tbl">
+            <table>
+                <tbody>
+
+                </tbody>
+            </table>
+        </div>
+
+    </div>
+
+</body>
+
+</html>

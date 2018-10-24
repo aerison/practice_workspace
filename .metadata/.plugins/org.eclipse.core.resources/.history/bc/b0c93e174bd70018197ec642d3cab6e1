@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="EUC-KR">
+    <title>css</title>
+    <style>
+        p:first-child {
+            font-size: 150%;
+            font-style: italic;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+    <p>font Test</p>
+</body>
+
+</html>

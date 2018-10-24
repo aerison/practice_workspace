@@ -1,0 +1,23 @@
+@charset "EUC-KR";
+@import url("https://fonts.googleapis.com/css?family=Charmonman|Dancing+Script|Domine|Gloria+Hallelujah|Krub|Pacifico|Permanent+Marker|Shadows+Into+Light");
+a{
+    text-decoration: none;
+    color: blue;
+    font-family: 'Pacifico', cursive;
+    font-size: 15px;
+}
+h3 {
+    font-family: 'Pacifico', cursive;
+    background-color: pink;
+    color: #5CD1E5;
+    text-align: center;
+    letter-spacing: 10px;
+    line-height: 100px;
+}
+
+p {
+    font-family: 'Krub', sans-serif;
+    font-size: 150%;
+    font-style: italic;
+    font-weight: bold;
+}

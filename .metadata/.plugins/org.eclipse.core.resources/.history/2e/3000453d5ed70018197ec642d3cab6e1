@@ -1,0 +1,17 @@
+@charset "EUC-KR";
+@import url('https://fonts.googleapis.com/css?family=Charmonman|K2D');
+
+#photo_tr{
+    background-color: #ebe8ed;
+}
+
+#div_tbl>table{
+    width: 100%;
+    text-align: center;
+    align-content: center;
+   
+    margin-right: 10%;
+}
+caption{
+    font-family: 'K2D', sans-serif;
+}
