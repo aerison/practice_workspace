@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Join Page</title>
+<style>
+
+</style>
+</head>
+<body>
+<form action="joincomplete.jsp" method="get">
+    <fieldset>
+        <legend>join page</legend>
+    <table>
+
+    </table>
+    </fieldset>
+</form>
+</body>
+</html>

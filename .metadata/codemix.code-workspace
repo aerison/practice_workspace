@@ -1,0 +1,34 @@
+{
+  "folders": [
+    {
+      "path": "C:\\workspace10\\H2"
+    },
+    {
+      "path": "C:\\workspace10\\Html"
+    },
+    {
+      "path": "C:\\workspace10\\RemoteSystemsTempFiles"
+    },
+    {
+      "path": "C:\\workspace10\\Servers"
+    },
+    {
+      "path": "C:\\workspace10\\h3"
+    }
+  ],
+  "settings": {
+    "javascript.referencesCodeLens.enabled": true,
+    "typescript.implementationsCodeLens.enabled": true,
+    "typescript.referencesCodeLens.enabled": true,
+    "javascript.implicitProjectConfig.checkJs": true,
+    "htmlhint.options": {
+      "attr-value-double-quotes": true,
+      "attr-no-duplication": true,
+      "tag-pair": true,
+      "spec-char-escape": true,
+      "id-unique": false,
+      "src-not-empty": true,
+      "title-require": true
+    }
+  }
+}

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>table test</title>
+<style>
+table{
+    width:300px;
+    height: 100px;
+}
+</style>
+</head>
+<body>
+<h1>table test</h1>
+<table border="1">
+    <thead><tr><td>Name</td></tr>
+    <tr><th>ID</th></tr>
+    <tr><th>Pwd</th></tr>
+    <tr><th>comment</th></tr></thead>
+    <tbody>
+    <tr><td>aaron</td></tr>
+    <tr><td>dfadf</td></tr>
+    <tr><td>afsdf</td></tr>
+    <tr><td>cafgsagsfg</td></tr>
+    </tbody>
+</table>
+</body>
+</html>

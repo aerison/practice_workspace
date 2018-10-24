@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>workshop</title>
+<style>
+table{
+    font-style: italic;
+    width:1000px;
+    height: 500px;;
+}
+</style>
+</head>
+<body>
+<table border="1">
+    
+    <tbody>
+        <tr>
+            <td rowspan="3" colspan="2">photo</td>
+            <td colspan="5">resume</td>
+        </tr>
+        <tr>
+            
+            <td rowspan="2">Name</td>
+            <td rowspan="2"></td>
+            <td colspan="3"></td>
+            
+        </tr>
+        <tr>
+            <td colspan="3"></td>
+        </tr>
+        <tr>
+            <td colspan="5"></td>
+            
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        
+    </tbody>
+</table>
+</body>
+</html>

@@ -1,0 +1,296 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Searching page</title>
+<style>
+ol, ul {
+    list-style: none;
+    margin:0px; padding:0px;
+}
+</style>
+</head>
+<body>
+<fieldset>
+<legend>News Table</legend>
+<table>
+    <div>
+        <ul class="themecast_list">
+<li class="tl_title" data-seq="461">
+<h3 class="tt_tit">경제M</h3>
+<div class="tt_bar"></div>
+<ul class="tt_links">
+<li class="tt_litem"><a href="http://land.naver.com/" class="tt_la" data-clk="tcc_fin.link" data-gdid="UAT_1295008">부동산</a></li>
+<li class="tt_litem"><a href="http://finance.naver.com/" class="tt_la" data-clk="tcc_fin.link" data-gdid="UAT_1295014">증권</a></li>
+<li class="tt_litem"><a href="http://news.naver.com/main/main.nhn?mode=LSD&amp;mid=shm&amp;sid1=101&amp;rc=N" class="tt_la" data-clk="tcc_fin.link" data-gdid="UAT_1295015">경제뉴스</a></li>
+<li class="tt_litem"><a href="http://finance.naver.com/news/" class="tt_la" data-clk="tcc_fin.link" data-gdid="UAT_1295016">증권뉴스</a></li>
+<li class="tt_litem"><a href="http://blog.naver.com/nv_economy" class="tt_la" data-clk="tcc_fin.link" data-gdid="UAT_1295018">경제M블로그</a></li>
+</ul>
+</li><li class="tl_bigimage" data-seq="227116">
+<a href="https://post.naver.com/viewer/postView.nhn?volumeNo=16900456&amp;memberNo=997329" class="tb_a" data-clk="tcc_fin.two" data-gdid="UAT_3316656">
+<div class="tb_mw">
+<img src="https://s.pstatic.net/static/www/mobile/edit/2018/1022/mobile_16163035649.jpg" width="346" height="185" alt="" class="tb_m">
+<span class="tb_bd"></span>
+</div>
+<div class="tb_ow">
+<span class="tb_bg"></span>
+<span class="tb_tw">
+<span class="tb_d">부동산 전망</span>
+<span class="tb_t">거품 빠지기 시작했다, 더 기다려라</span>
+</span>
+<span class="tb_align"></span>
+</div>
+</a>
+</li><li class="tl_default" data-seq="227131" data-title="[테마매물] 방 3개 1억 대 아파트" data-expsstartymdt="2018-10-23 05:00" data-expsendymdt="2018-10-25 04:59" data-fixedseq="0" data-fixedexpsstartymdt="" data-fixedexpsendymdt="">
+<a href="https://new.land.naver.com/themes/20181023" class="td_a" data-clk="tcc_fin.contents" data-gdid="UAT_3316694">
+<span class="td_mw">
+<img src="https://s.pstatic.net/static/www/mobile/edit/2018/1022/mobile_16200570880.jpg" width="166" height="108" alt="" class="td_m">
+<span class="td_bd"></span>
+</span>
+<span class="td_tw">
+<span class="td_t">[테마매물] 방 3개 1억 대 아파트</span>
+</span>
+</a>
+<span class="td_ow">
+<span class="td_o">네이버 부동산</span>
+</span>
+</li>
+<li class="tl_default" data-seq="227130" data-title="삼성전자 제친 상반기 평균연봉 1위 기업은?" data-expsstartymdt="2018-10-23 05:00" data-expsendymdt="2018-10-25 04:59" data-fixedseq="0" data-fixedexpsstartymdt="" data-fixedexpsendymdt="" data-veta-preview="p_main_finance_00" id="p_main_finance_00">
+<a href="https://post.naver.com/viewer/postView.nhn?volumeNo=16908127&amp;memberNo=7322715" class="td_a" data-clk="tcc_fin.contents" data-gdid="UAT_3316693">
+<span class="td_mw">
+<img src="https://s.pstatic.net/static/www/mobile/edit/2018/1022/mobile_161747814670.jpg" width="166" height="108" alt="" class="td_m">
+<span class="td_bd"></span>
+</span>
+<span class="td_tw">
+<span class="td_t">삼성전자 제친 상반기 평균연봉 1위 기업은?</span>
+</span>
+</a>
+<span class="td_ow">
+<span class="td_o">연봉 탐색</span>
+</span>
+</li><script id="p_main_finance_00_script" type="text/template" data-veta-type="empty" data-eval="true">
+(function() {
+    var isUnderIE9 = AgentDetect.IS_IE && AgentDetect.searchBrowserVersion() < 9.0;
+
+    if (isUnderIE9 === true) {
+        String.prototype.trim = function () {
+            return this.replace(/^[\s\uFEFF\xA0]+|[\s\uFEFF\xA0]+$/g, "");
+        };
+    }
+	var naver_corp_da = window.naver_corp_da || {};
+	var da_dom_id = 'p_main_finance_00'.trim();
+	var uId = (da_dom_id.length > 0) ? da_dom_id : (typeof nbp_ad !== 'undefined') ? nbp_ad.mobilenetwork.ad_div_id : 'adw_da';
+	var tarEl = NBP_CORP.$(uId);
+	
+	var util = naver_corp_da.Util ? new naver_corp_da.Util() : new NBP_CORP.Nimp();
+
+	if(tarEl) {
+		/* ActiveView */
+		var ac_end_date = "20301231235959";
+		var ad_end_date = "20301231235959";
+
+		var scroll_target = (typeof da_scroll_target !== 'undefined') ? da_scroll_target.targetEl : window;
+		var orientation_change_time = 500;
+
+		var callback = function () {
+			var url = "https://nv.veta.naver.com/fxview?eu=EU10022500&calp=-&ac=7560751&src=3184385&evtcd=C1073&x_ti=944&tb=FINANCE_1&oid=&sid1=&sid2=&rk=6fd05133ab2e594f8aec3e5733378bc0&eltts=hNkJ6DJeR3Pv7qVht2LeEg%3D%3D&brs=Y&&eid=V900&x_ev=";
+			var x_ev = '';
+			try {
+				var target = NBP_CORP.$(uId);
+				x_ev = (target) ? ((parseInt(target.getBoundingClientRect().height || target.offsetHeight, 10) === 0) ? '000' : '111') : '000';
+			} catch(e) {
+				x_ev = '000';
+			} finally {
+				url += x_ev;
+				util.log(url);
+			}
+		};
+
+		var callbackForInValid = function () {};
+
+		naver_corp_da.activeViews[uId] = naver_corp_da.activeViews[uId] || null;
+
+		if(naver_corp_da.activeViews[uId]) {
+			naver_corp_da.activeViews[uId].clearActiveView();
+			naver_corp_da.activeViews[uId] = null;
+		} 
+
+		naver_corp_da.activeViews[uId] = new naver_corp_da.ActiveView({
+			adDivId : uId,
+			acEndDate : ac_end_date,
+			adEndDate : ad_end_date,
+			scrollTarget : scroll_target,
+			activeViewTime : 1000,
+			activeViewPercentage : 0.5,
+			orientationChangeTime : orientation_change_time,
+			callback : callback,
+			callbackForInValid : callbackForInValid
+		});
+
+		naver_corp_da.activeViews[uId].checkActiveView();
+	}
+})();
+</script><li class="tl_default" data-seq="227128" data-title="스타벅스 마니아도 모르는 '17잔'의 비밀" data-expsstartymdt="2018-10-23 05:00" data-expsendymdt="2018-10-25 04:59" data-fixedseq="0" data-fixedexpsstartymdt="" data-fixedexpsendymdt="">
+<a href="https://post.naver.com/viewer/postView.nhn?volumeNo=16931198&amp;memberNo=29949587" class="td_a" data-clk="tcc_fin.contents" data-gdid="UAT_3316691">
+<span class="td_mw">
+<img src="https://s.pstatic.net/static/www/mobile/edit/2018/1022/mobile_162210457512.jpg" width="166" height="108" alt="" class="td_m">
+<span class="td_bd"></span>
+</span>
+<span class="td_tw">
+<span class="td_t">스타벅스 마니아도 모르는 '17잔'의 비밀</span>
+</span>
+</a>
+<span class="td_ow">
+<span class="td_o">마케팅 전략</span>
+</span>
+</li>
+<li class="tl_default" data-seq="227127" data-title="퇴직급여 한꺼번에 받으면 세금은 얼마나 내나요?" data-expsstartymdt="2018-10-23 05:00" data-expsendymdt="2018-10-25 04:59" data-fixedseq="0" data-fixedexpsstartymdt="" data-fixedexpsendymdt="">
+<a href="https://post.naver.com/viewer/postView.nhn?volumeNo=16893501&amp;memberNo=15470144" class="td_a" data-clk="tcc_fin.contents" data-gdid="UAT_3316690">
+<span class="td_mw">
+<img src="https://s.pstatic.net/static/www/mobile/edit/2018/1022/mobile_162318574734.jpg" width="166" height="108" alt="" class="td_m">
+<span class="td_bd"></span>
+</span>
+<span class="td_tw">
+<span class="td_t">퇴직급여 한꺼번에 받으면 세금은 얼마나 내나요?</span>
+</span>
+</a>
+<span class="td_ow">
+<span class="td_o">퇴직소득세 계산</span>
+</span>
+</li>
+<li class="tl_default" data-seq="227126" data-title="1년 매출 4천억!? 80년 전통의 정육점 사장님" data-expsstartymdt="2018-10-23 05:00" data-expsendymdt="2018-10-25 04:59" data-fixedseq="0" data-fixedexpsstartymdt="" data-fixedexpsendymdt="">
+<a href="https://tv.naver.com/v/4296907" class="td_a" data-clk="tcc_fin.contents" data-gdid="UAT_3316689">
+<span class="td_mw">
+<img src="https://s.pstatic.net/static/www/mobile/edit/2018/1022/mobile_16304701862.jpg" width="166" height="108" alt="" class="td_m">
+<span class="td_bd"></span>
+<span class="td_ico_video"><span class="blind">ëìì</span><span class="td_bg"></span><span class="td_icon"></span></span>
+</span>
+<span class="td_tw">
+<span class="td_t">1년 매출 4천억!? 80년 전통의 정육점 사장님</span>
+</span>
+</a>
+<span class="td_ow">
+<span class="td_o">노포 이야기</span>
+</span>
+</li>
+<li class="tl_default" data-seq="227125" data-title="분당과 동기였는데...일산의 한숨" data-expsstartymdt="2018-10-23 05:00" data-expsendymdt="2018-10-25 04:59" data-fixedseq="0" data-fixedexpsstartymdt="" data-fixedexpsendymdt="">
+<a href="https://post.naver.com/viewer/postView.nhn?volumeNo=16900392&amp;memberNo=7322715" class="td_a" data-clk="tcc_fin.contents" data-gdid="UAT_3316688">
+<span class="td_mw">
+<img src="https://s.pstatic.net/static/www/mobile/edit/2018/1022/mobile_163159704583.jpg" width="166" height="108" alt="" class="td_m">
+<span class="td_bd"></span>
+</span>
+<span class="td_tw">
+<span class="td_t">분당과 동기였는데...일산의 한숨</span>
+</span>
+</a>
+<span class="td_ow">
+<span class="td_o">부동산 동향</span>
+</span>
+</li>
+<li class="tl_default" data-seq="227124" data-title="퇴사 후 꼭 챙겨야 할 국가지원제도 5가지" data-expsstartymdt="2018-10-23 05:00" data-expsendymdt="2018-10-25 04:59" data-fixedseq="0" data-fixedexpsstartymdt="" data-fixedexpsendymdt="">
+<a href="https://blog.naver.com/cardifkorea/221378706295" class="td_a" data-clk="tcc_fin.contents" data-gdid="UAT_3316687">
+<span class="td_mw">
+<img src="https://s.pstatic.net/static/www/mobile/edit/2018/1022/mobile_163309245222.jpg" width="166" height="108" alt="" class="td_m">
+<span class="td_bd"></span>
+</span>
+<span class="td_tw">
+<span class="td_t">퇴사 후 꼭 챙겨야 할 국가지원제도 5가지</span>
+</span>
+</a>
+<span class="td_ow">
+<span class="td_o">직장 생활</span>
+</span>
+</li>
+<li class="tl_default" data-seq="227123" data-title="국민연금 납부 중 이민 또는 사망했다면?" data-expsstartymdt="2018-10-23 05:00" data-expsendymdt="2018-10-25 04:59" data-fixedseq="0" data-fixedexpsstartymdt="" data-fixedexpsendymdt="">
+<a href="https://post.naver.com/viewer/postView.nhn?volumeNo=16892312&amp;memberNo=33794657" class="td_a" data-clk="tcc_fin.contents" data-gdid="UAT_3316686">
+<span class="td_mw">
+<img src="https://s.pstatic.net/static/www/mobile/edit/2018/1022/mobile_163711203936.jpg" width="166" height="108" alt="" class="td_m">
+<span class="td_bd"></span>
+</span>
+<span class="td_tw">
+<span class="td_t">국민연금 납부 중 이민 또는 사망했다면?</span>
+</span>
+</a>
+<span class="td_ow">
+<span class="td_o">자산 관리</span>
+</span>
+</li>
+<li class="tl_default" data-seq="227122" data-title="세계에서 가장 비싼 땅 모나코에서 가장 비싼 집은?" data-expsstartymdt="2018-10-23 05:00" data-expsendymdt="2018-10-25 04:59" data-fixedseq="0" data-fixedexpsstartymdt="" data-fixedexpsendymdt="">
+<a href="https://tv.naver.com/v/4079774" class="td_a" data-clk="tcc_fin.contents" data-gdid="UAT_3316685">
+<span class="td_mw">
+<img src="https://s.pstatic.net/static/www/mobile/edit/2018/1022/mobile_163950170556.jpg" width="166" height="108" alt="" class="td_m">
+<span class="td_bd"></span>
+<span class="td_ico_video"><span class="blind">ëìì</span><span class="td_bg"></span><span class="td_icon"></span></span>
+</span>
+<span class="td_tw">
+<span class="td_t">세계에서 가장 비싼 땅 모나코에서 가장 비싼 집은?</span>
+</span>
+</a>
+<span class="td_ow">
+<span class="td_o">핫 플레이스</span>
+</span>
+</li>
+<li class="tl_default" data-seq="227121" data-title="'손해 보기도 싫고' vs '올려받기도 어렵고'" data-expsstartymdt="2018-10-23 05:00" data-expsendymdt="2018-10-25 04:59" data-fixedseq="0" data-fixedexpsstartymdt="" data-fixedexpsendymdt="">
+<a href="https://post.naver.com/viewer/postView.nhn?volumeNo=16900422&amp;memberNo=11567548" class="td_a" data-clk="tcc_fin.contents" data-gdid="UAT_3316683">
+<span class="td_mw">
+<img src="https://s.pstatic.net/static/www/mobile/edit/2018/1022/mobile_164144623775.jpg" width="166" height="108" alt="" class="td_m">
+<span class="td_bd"></span>
+</span>
+<span class="td_tw">
+<span class="td_t">'손해 보기도 싫고' vs '올려받기도 어렵고'</span>
+</span>
+</a>
+<span class="td_ow">
+<span class="td_o">집주인의 딜레마</span>
+</span>
+</li>
+<li class="tl_default" data-seq="227120" data-title="신규 입주 아파트 전세 계약 시 주의사항은?" data-expsstartymdt="2018-10-23 05:00" data-expsendymdt="2018-10-25 04:59" data-fixedseq="0" data-fixedexpsstartymdt="" data-fixedexpsendymdt="">
+<a href="https://post.naver.com/viewer/postView.nhn?volumeNo=16900218&amp;memberNo=38249019" class="td_a" data-clk="tcc_fin.contents" data-gdid="UAT_3316682">
+<span class="td_mw">
+<img src="https://s.pstatic.net/static/www/mobile/edit/2018/1022/mobile_164652646936.jpg" width="166" height="108" alt="" class="td_m">
+<span class="td_bd"></span>
+</span>
+<span class="td_tw">
+<span class="td_t">신규 입주 아파트 전세 계약 시 주의사항은?</span>
+</span>
+</a>
+<span class="td_ow">
+<span class="td_o">부동산 정보</span>
+</span>
+</li>
+<li class="tl_default" data-seq="227119" data-title="부자들의 필수템, '외화예금'! 환차익O 세금↓" data-expsstartymdt="2018-10-23 05:00" data-expsendymdt="2018-10-25 04:59" data-fixedseq="0" data-fixedexpsstartymdt="" data-fixedexpsendymdt="">
+<a href="https://tv.naver.com/v/4291666" class="td_a" data-clk="tcc_fin.contents" data-gdid="UAT_3316681">
+<span class="td_mw">
+<img src="https://s.pstatic.net/static/www/mobile/edit/2018/1022/mobile_16531541209.jpg" width="166" height="108" alt="" class="td_m">
+<span class="td_bd"></span>
+<span class="td_ico_video"><span class="blind">ëìì</span><span class="td_bg"></span><span class="td_icon"></span></span>
+</span>
+<span class="td_tw">
+<span class="td_t">부자들의 필수템, '외화예금'! 환차익O 세금↓</span>
+</span>
+</a>
+<span class="td_ow">
+<span class="td_o">재테크 노하우</span>
+</span>
+</li>
+<li class="tl_default" data-seq="227118" data-title="불확실의 시대, 일의 미래를 준비하라" data-expsstartymdt="2018-10-23 05:00" data-expsendymdt="2018-10-25 04:59" data-fixedseq="0" data-fixedexpsstartymdt="" data-fixedexpsendymdt="">
+<a href="https://tv.naver.com/v/4220902" class="td_a" data-clk="tcc_fin.contents" data-gdid="UAT_3316670">
+<span class="td_mw">
+<img src="https://s.pstatic.net/static/www/mobile/edit/2018/1022/mobile_165516127919.jpg" width="166" height="108" alt="" class="td_m">
+<span class="td_bd"></span>
+<span class="td_ico_video"><span class="blind">ëìì</span><span class="td_bg"></span><span class="td_icon"></span></span>
+</span>
+<span class="td_tw">
+<span class="td_t">불확실의 시대, 일의 미래를 준비하라</span>
+</span>
+</a>
+<span class="td_ow">
+<span class="td_o">직업의 종말</span>
+</span>
+</li>
+</ul>
+    </div>
+</table>
+</fieldset>
+</body>
+</html>

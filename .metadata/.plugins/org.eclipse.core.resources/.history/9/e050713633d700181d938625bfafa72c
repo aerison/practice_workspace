@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>parent</title>
+<style>
+p{
+    color:red;
+}
+</style>
+</head>
+<body>
+<p>Paragraph</p>
+<p>Paragraph</p>
+<p>Paragraph</p>
+<p>Paragraph</p>
+<p>Paragraph</p>
+ID<input type="text" name="id"><br>
+PWD<input type="password" name="pwd"><br>
+
+</body>
+</html>

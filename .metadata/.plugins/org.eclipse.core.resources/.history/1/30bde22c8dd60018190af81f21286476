@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+<style>
+table{
+    width: 200px;
+    height: 100px;
+}
+</style>
+</head>
+<body>
+    <table>
+    <a href="join.jsp"></a>
+    <a href="login.jsp"></a>
+    <a href="searching.jsp"></a>
+    </table>
+</body>
+</html>

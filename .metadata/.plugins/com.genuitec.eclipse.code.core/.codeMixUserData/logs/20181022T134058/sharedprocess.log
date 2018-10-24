@@ -1,0 +1,208 @@
+[2018-10-22 13:41:04.408] [sharedprocess] [info] main {"machineId":"64681bd1de13a15e8741e01cf56f7563f4db0a4925256aa70e5ef85f16613f43"}
+[2018-10-22 13:41:04.437] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-22 13:41:04.501] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:41:05.599] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-22 13:41:05.602] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-22 13:41:05.672] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:41:05.944] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-22 13:41:05.983] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:41:06.322] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-22 13:41:06.364] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:41:06.367] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-22 13:41:06.476] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:41:09.171] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-22 13:41:44.432] [sharedprocess] [info] Starting to clean up unused language packs.
+[2018-10-22 13:43:06.216] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-22 13:43:06.243] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:46.725] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-22 13:44:46.726] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-22 13:44:46.726] [sharedprocess] [info] Installing the extension: codemix.web-0.9.1
+[2018-10-22 13:44:46.727] [sharedprocess] [info] Scanned user extensions: 0
+[2018-10-22 13:44:46.751] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:46.762] [sharedprocess] [info] Extracted extension to C:\Users\student\.vscode\extensions\.codemix.web-0.9.1: codemix.web-0.9.1
+[2018-10-22 13:44:46.762] [sharedprocess] [info] Renamed to C:\Users\student\.vscode\extensions\codemix.web-0.9.1
+[2018-10-22 13:44:46.762] [sharedprocess] [info] Installation completed. codemix.web-0.9.1
+[2018-10-22 13:44:46.764] [sharedprocess] [info] Successfully installed the extension: codemix.web-0.9.1
+[2018-10-22 13:44:46.766] [sharedprocess] [info] Scanned user extensions: 1
+[2018-10-22 13:44:46.772] [sharedprocess] [info] Scanned user extensions: 1
+[2018-10-22 13:44:46.793] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:46.869] [sharedprocess] [info] Scanned user extensions: 1
+[2018-10-22 13:44:46.890] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:47.549] [sharedprocess] [info] Scanned user extensions: 1
+[2018-10-22 13:44:47.552] [sharedprocess] [info] Scanned user extensions: 1
+[2018-10-22 13:44:47.552] [sharedprocess] [info] Installing the extension: christian-kohler.path-intellisense-1.4.2
+[2018-10-22 13:44:47.563] [sharedprocess] [info] Scanned user extensions: 1
+[2018-10-22 13:44:47.590] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:47.697] [sharedprocess] [info] Extracted extension to C:\Users\student\.vscode\extensions\.christian-kohler.path-intellisense-1.4.2: christian-kohler.path-intellisense-1.4.2
+[2018-10-22 13:44:47.698] [sharedprocess] [info] Renamed to C:\Users\student\.vscode\extensions\christian-kohler.path-intellisense-1.4.2
+[2018-10-22 13:44:47.698] [sharedprocess] [info] Installation completed. christian-kohler.path-intellisense-1.4.2
+[2018-10-22 13:44:47.699] [sharedprocess] [info] Successfully installed the extension: christian-kohler.path-intellisense-1.4.2
+[2018-10-22 13:44:47.702] [sharedprocess] [info] Scanned user extensions: 2
+[2018-10-22 13:44:47.707] [sharedprocess] [info] Scanned user extensions: 2
+[2018-10-22 13:44:47.729] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:47.811] [sharedprocess] [info] Scanned user extensions: 2
+[2018-10-22 13:44:47.841] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:49.521] [sharedprocess] [info] Scanned user extensions: 2
+[2018-10-22 13:44:49.523] [sharedprocess] [info] Scanned user extensions: 2
+[2018-10-22 13:44:49.523] [sharedprocess] [info] Installing the extension: hookyqr.beautify-1.3.0
+[2018-10-22 13:44:49.529] [sharedprocess] [info] Scanned user extensions: 2
+[2018-10-22 13:44:49.551] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:50.848] [sharedprocess] [info] Extracted extension to C:\Users\student\.vscode\extensions\.hookyqr.beautify-1.3.0: hookyqr.beautify-1.3.0
+[2018-10-22 13:44:50.849] [sharedprocess] [info] Renamed to C:\Users\student\.vscode\extensions\hookyqr.beautify-1.3.0
+[2018-10-22 13:44:50.849] [sharedprocess] [info] Installation completed. hookyqr.beautify-1.3.0
+[2018-10-22 13:44:50.852] [sharedprocess] [info] Successfully installed the extension: hookyqr.beautify-1.3.0
+[2018-10-22 13:44:50.855] [sharedprocess] [info] Scanned user extensions: 3
+[2018-10-22 13:44:50.860] [sharedprocess] [info] Scanned user extensions: 3
+[2018-10-22 13:44:50.884] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:50.922] [sharedprocess] [info] Scanned user extensions: 3
+[2018-10-22 13:44:50.924] [sharedprocess] [info] Scanned user extensions: 3
+[2018-10-22 13:44:50.924] [sharedprocess] [info] Installing the extension: formulahendry.code-runner-0.9.3
+[2018-10-22 13:44:50.928] [sharedprocess] [info] Scanned user extensions: 3
+[2018-10-22 13:44:50.950] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:50.957] [sharedprocess] [info] Scanned user extensions: 3
+[2018-10-22 13:44:50.973] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:51.462] [sharedprocess] [info] Extracted extension to C:\Users\student\.vscode\extensions\.formulahendry.code-runner-0.9.3: formulahendry.code-runner-0.9.3
+[2018-10-22 13:44:51.463] [sharedprocess] [info] Renamed to C:\Users\student\.vscode\extensions\formulahendry.code-runner-0.9.3
+[2018-10-22 13:44:51.463] [sharedprocess] [info] Installation completed. formulahendry.code-runner-0.9.3
+[2018-10-22 13:44:51.467] [sharedprocess] [info] Successfully installed the extension: formulahendry.code-runner-0.9.3
+[2018-10-22 13:44:51.475] [sharedprocess] [info] Scanned user extensions: 4
+[2018-10-22 13:44:51.487] [sharedprocess] [info] Scanned user extensions: 4
+[2018-10-22 13:44:51.509] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:51.539] [sharedprocess] [info] Scanned user extensions: 4
+[2018-10-22 13:44:51.540] [sharedprocess] [info] Scanned user extensions: 4
+[2018-10-22 13:44:51.540] [sharedprocess] [info] Installing the extension: msjsdiag.debugger-for-chrome-4.4.3
+[2018-10-22 13:44:51.544] [sharedprocess] [info] Scanned user extensions: 4
+[2018-10-22 13:44:51.562] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:51.574] [sharedprocess] [info] Scanned user extensions: 4
+[2018-10-22 13:44:51.589] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:53.129] [sharedprocess] [info] Extracted extension to C:\Users\student\.vscode\extensions\.msjsdiag.debugger-for-chrome-4.4.3: msjsdiag.debugger-for-chrome-4.4.3
+[2018-10-22 13:44:53.130] [sharedprocess] [info] Renamed to C:\Users\student\.vscode\extensions\msjsdiag.debugger-for-chrome-4.4.3
+[2018-10-22 13:44:53.130] [sharedprocess] [info] Installation completed. msjsdiag.debugger-for-chrome-4.4.3
+[2018-10-22 13:44:53.133] [sharedprocess] [info] Successfully installed the extension: msjsdiag.debugger-for-chrome-4.4.3
+[2018-10-22 13:44:53.139] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-22 13:44:53.146] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-22 13:44:53.167] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:53.202] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-22 13:44:53.205] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-22 13:44:53.205] [sharedprocess] [info] Installing the extension: dbaeumer.vscode-eslint-1.4.10
+[2018-10-22 13:44:53.212] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-22 13:44:53.227] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:53.242] [sharedprocess] [info] Scanned user extensions: 5
+[2018-10-22 13:44:53.255] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:53.688] [sharedprocess] [info] Extracted extension to C:\Users\student\.vscode\extensions\.dbaeumer.vscode-eslint-1.4.10: dbaeumer.vscode-eslint-1.4.10
+[2018-10-22 13:44:53.689] [sharedprocess] [info] Renamed to C:\Users\student\.vscode\extensions\dbaeumer.vscode-eslint-1.4.10
+[2018-10-22 13:44:53.689] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint-1.4.10
+[2018-10-22 13:44:53.691] [sharedprocess] [info] Successfully installed the extension: dbaeumer.vscode-eslint-1.4.10
+[2018-10-22 13:44:53.695] [sharedprocess] [info] Scanned user extensions: 6
+[2018-10-22 13:44:53.701] [sharedprocess] [info] Scanned user extensions: 6
+[2018-10-22 13:44:53.717] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:53.741] [sharedprocess] [info] Scanned user extensions: 6
+[2018-10-22 13:44:53.743] [sharedprocess] [info] Scanned user extensions: 6
+[2018-10-22 13:44:53.743] [sharedprocess] [info] Installing the extension: formulahendry.auto-close-tag-0.5.6
+[2018-10-22 13:44:53.746] [sharedprocess] [info] Scanned user extensions: 6
+[2018-10-22 13:44:53.760] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:53.798] [sharedprocess] [info] Scanned user extensions: 6
+[2018-10-22 13:44:53.800] [sharedprocess] [info] Scanned user extensions: 6
+[2018-10-22 13:44:53.810] [sharedprocess] [info] Extracted extension to C:\Users\student\.vscode\extensions\.formulahendry.auto-close-tag-0.5.6: formulahendry.auto-close-tag-0.5.6
+[2018-10-22 13:44:53.811] [sharedprocess] [info] Renamed to C:\Users\student\.vscode\extensions\formulahendry.auto-close-tag-0.5.6
+[2018-10-22 13:44:53.811] [sharedprocess] [info] Installation completed. formulahendry.auto-close-tag-0.5.6
+[2018-10-22 13:44:53.817] [sharedprocess] [info] Successfully installed the extension: formulahendry.auto-close-tag-0.5.6
+[2018-10-22 13:44:53.828] [sharedprocess] [info] Scanned user extensions: 7
+[2018-10-22 13:44:53.831] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:53.834] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:53.840] [sharedprocess] [info] Scanned user extensions: 7
+[2018-10-22 13:44:53.856] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:53.932] [sharedprocess] [info] Scanned user extensions: 7
+[2018-10-22 13:44:53.946] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:44:54.916] [sharedprocess] [info] Scanned user extensions: 7
+[2018-10-22 13:44:54.919] [sharedprocess] [info] Scanned user extensions: 7
+[2018-10-22 13:44:54.920] [sharedprocess] [info] Installing the extension: zignd.html-css-class-completion-1.17.1
+[2018-10-22 13:44:54.924] [sharedprocess] [info] Scanned user extensions: 7
+[2018-10-22 13:44:54.939] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:45:08.195] [sharedprocess] [info] Extracted extension to C:\Users\student\.vscode\extensions\.zignd.html-css-class-completion-1.17.1: zignd.html-css-class-completion-1.17.1
+[2018-10-22 13:45:08.201] [sharedprocess] [info] Renamed to C:\Users\student\.vscode\extensions\zignd.html-css-class-completion-1.17.1
+[2018-10-22 13:45:08.201] [sharedprocess] [info] Installation completed. zignd.html-css-class-completion-1.17.1
+[2018-10-22 13:45:08.203] [sharedprocess] [info] Successfully installed the extension: zignd.html-css-class-completion-1.17.1
+[2018-10-22 13:45:08.207] [sharedprocess] [info] Scanned user extensions: 8
+[2018-10-22 13:45:08.217] [sharedprocess] [info] Scanned user extensions: 8
+[2018-10-22 13:45:08.233] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:45:08.262] [sharedprocess] [info] Scanned user extensions: 8
+[2018-10-22 13:45:08.269] [sharedprocess] [info] Scanned user extensions: 8
+[2018-10-22 13:45:08.269] [sharedprocess] [info] Installing the extension: mkaufman.htmlhint-0.5.0
+[2018-10-22 13:45:08.273] [sharedprocess] [info] Scanned user extensions: 8
+[2018-10-22 13:45:08.287] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:45:08.310] [sharedprocess] [info] Scanned user extensions: 8
+[2018-10-22 13:45:08.323] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:45:11.105] [sharedprocess] [info] Extracted extension to C:\Users\student\.vscode\extensions\.mkaufman.htmlhint-0.5.0: mkaufman.htmlhint-0.5.0
+[2018-10-22 13:45:11.107] [sharedprocess] [info] Renamed to C:\Users\student\.vscode\extensions\mkaufman.htmlhint-0.5.0
+[2018-10-22 13:45:11.107] [sharedprocess] [info] Installation completed. mkaufman.htmlhint-0.5.0
+[2018-10-22 13:45:11.108] [sharedprocess] [info] Successfully installed the extension: mkaufman.htmlhint-0.5.0
+[2018-10-22 13:45:11.113] [sharedprocess] [info] Scanned user extensions: 9
+[2018-10-22 13:45:11.121] [sharedprocess] [info] Scanned user extensions: 9
+[2018-10-22 13:45:11.137] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:45:11.163] [sharedprocess] [info] Scanned user extensions: 9
+[2018-10-22 13:45:11.166] [sharedprocess] [info] Scanned user extensions: 9
+[2018-10-22 13:45:11.166] [sharedprocess] [info] Installing the extension: xabikos.javascriptsnippets-1.6.0
+[2018-10-22 13:45:11.170] [sharedprocess] [info] Scanned user extensions: 9
+[2018-10-22 13:45:11.182] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:45:11.193] [sharedprocess] [info] Extracted extension to C:\Users\student\.vscode\extensions\.xabikos.javascriptsnippets-1.6.0: xabikos.javascriptsnippets-1.6.0
+[2018-10-22 13:45:11.194] [sharedprocess] [info] Renamed to C:\Users\student\.vscode\extensions\xabikos.javascriptsnippets-1.6.0
+[2018-10-22 13:45:11.194] [sharedprocess] [info] Installation completed. xabikos.javascriptsnippets-1.6.0
+[2018-10-22 13:45:11.195] [sharedprocess] [info] Successfully installed the extension: xabikos.javascriptsnippets-1.6.0
+[2018-10-22 13:45:11.199] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 13:45:11.208] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 13:45:11.221] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:45:12.016] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 13:45:12.017] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 13:45:12.030] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:45:12.418] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 13:45:12.459] [sharedprocess] [info] Scanned system extensions: 72
+[2018-10-22 13:45:15.185] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 13:50:15.221] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 13:55:15.256] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 14:00:15.293] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 14:05:15.343] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 14:10:15.383] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 14:15:15.420] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 14:20:15.456] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 14:25:15.494] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 14:30:15.534] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 14:35:15.574] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 14:40:15.611] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 14:45:15.648] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 14:50:15.686] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 14:55:15.722] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 15:00:15.759] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 15:05:15.796] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 15:10:15.835] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 15:15:15.873] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 15:20:15.912] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 15:25:15.948] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 15:30:15.984] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 15:35:16.019] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 15:40:16.060] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 15:45:16.098] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 15:50:16.137] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 15:55:16.173] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 16:00:16.210] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 16:05:16.248] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 16:10:16.290] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 16:15:16.325] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 16:20:16.361] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 16:25:16.395] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 16:30:16.431] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 16:35:16.467] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 16:40:16.506] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 16:45:16.542] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 16:50:16.582] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 16:55:16.617] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 17:00:16.651] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 17:05:16.685] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 17:10:16.719] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 17:15:16.755] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 17:20:16.796] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 17:25:16.835] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 17:30:16.872] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 17:35:16.909] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 17:40:16.952] [sharedprocess] [info] Scanned user extensions: 10
+[2018-10-22 17:45:16.991] [sharedprocess] [info] Scanned user extensions: 10

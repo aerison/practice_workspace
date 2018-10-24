@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Join Page</title>
+<style>
+
+</style>
+
+<script>"undefined"==typeof CODE_LIVE&&(!function(e){var t={nonSecure:"50172",secure:"50177"},c={nonSecure:"http://",secure:"https://"},r={nonSecure:"127.0.0.1",secure:"gapdebug.local.genuitec.com"},n="https:"===window.location.protocol?"secure":"nonSecure";script=e.createElement("script"),script.type="text/javascript",script.async=!0,script.src=c[n]+r[n]+":"+t[n]+"/codelive-assets/bundle.js",e.getElementsByTagName("head")[0].appendChild(script)}(document),CODE_LIVE=!0);</script></head>
+<body data-genuitec-lp-enabled="false" data-genuitec-file-id="wc1-1" data-genuitec-path="/h3/web/join.html">
+<form action="joincomplete.jsp" method="get" data-genuitec-lp-enabled="false" data-genuitec-file-id="wc1-1" data-genuitec-path="/h3/web/join.html">
+    <fieldset>
+        <legend>join page</legend>
+    <table>
+        <div>Name : <input type="text" name="name" required></div>
+        <div>ID : <input type="text" name="id" required></div>
+        <div>PWD : <input type="text" name="pwd" id="pwd" required></div>
+        <div>PWD check: <input type="text" name="pwdchk" id="pwdchk" required></div>
+        <div><input type="submit" value="register" onclick="Checkpwd()"></div>
+    </table>
+    <a href="index.html">Home</a>
+    </fieldset>
+</form>
+<script>
+    function Checkpwd() 
+{ 
+var pwd=  document.getElementById("pwd").value;
+var pwdchk=  document.getElementById("pwdchk").value;
+if(pwdchk=pwd) 
+{ 
+alert('correct!')
+return true;
+}
+else
+{ 
+alert('Wrong...! retry')
+return false;
+}
+}
+</script>
+</body>
+</html>

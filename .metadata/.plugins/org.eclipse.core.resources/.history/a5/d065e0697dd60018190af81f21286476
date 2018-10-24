@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+<style>
+form{
+    width:250px;
+    height: 100px;
+    background: yellow;
+    font-style: initial;
+}
+span{
+    width: 250px;
+    height: 100px;
+}
+</style>
+</head>
+<body>
+<h1>form test</h1>
+<form>  <!--form :cast name to server-->
+    <table>
+    <tbody>
+    ID &nbsp;<input type="text" name="id"><br> 
+    PWD &nbsp;<input type="text" name="pwd"><br>
+    <input type="submit" value="login">
+    <input type="reset" value="reset">
+    <!--radio checkbox-->
+    Male<input type="radio" name="gender">
+    Female<input type="radio" name="gender">
+    Aje<input type="radio" name="gender">
+</tbody>
+</table>
+</form>
+</body>
+</html>

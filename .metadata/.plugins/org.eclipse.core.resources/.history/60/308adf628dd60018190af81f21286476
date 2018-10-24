@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+<form action="login.jsp" method="get">
+<fieldset>
+    <legend>login</legend>
+</fieldset>
+</form>
+</body>
+</html>

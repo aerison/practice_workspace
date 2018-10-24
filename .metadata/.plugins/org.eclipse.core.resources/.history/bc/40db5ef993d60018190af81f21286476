@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Join Page</title>
+<style>
+
+</style>
+
+</head>
+<body>
+<form action="joincomplete.jsp" method="get">
+    <fieldset>
+        <legend>join page</legend>
+    <table>
+        <div>Name : <input type="text" name="name" required></div>
+        <div>ID : <input type="text" name="id" required></div>
+        <div>PWD : <input type="text" name="pwd" id="pwd" required></div>
+        <div>PWD check: <input type="text" name="pwdchk" id="pwdchk" required></div>
+        <div><input type="submit" value="register" onclick="Checkpwd()"></div>
+    </table>
+    <a href="index.html">Home</a>
+    </fieldset>
+</form>
+<script>
+    function Checkpwd() 
+{ 
+var pwd=  document.getElementById("pwd").value;
+var pwdchk=  document.getElementById("pwdchk").value;
+if(pwdchk=pwd) 
+{ 
+alert('correct!')
+return true;
+}
+else
+{ 
+alert('Wrong...! retry')
+return false;
+}
+}
+</script>
+</body>
+</html>

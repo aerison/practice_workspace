@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Searching page</title>
+</head>
+<body>
+<fieldset>
+<legend>Product Table</legend>
+<table>
+    <div>
+        
+    </div>
+</table>
+</fieldset>
+</body>
+</html>

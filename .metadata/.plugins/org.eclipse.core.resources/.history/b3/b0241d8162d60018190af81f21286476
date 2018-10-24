@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Audio Test</title>
+</head>
+<body>
+<h1>audio test</h1>
+<audio src="Kalimba.mp3" autoplay controls></audio> <!--autoplay and cast controls-->
+</body>
+</html>

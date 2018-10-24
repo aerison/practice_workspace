@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>table test</title>
+</head>
+<body>
+<h1>table test</h1>
+<tr><td>Name</td></tr>
+<tr><td>ID</td></tr>
+<tr><td>Pwd</td></tr>
+<tr><td>comment</td></tr>
+</body>
+</html>

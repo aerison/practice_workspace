@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Join Page</title>
+<style>
+
+</style>
+<script>
+    func a(){
+        alert('a');
+	location.href="http://www.naver.com";
+    };
+</script>
+</head>
+<body>
+<form action="joincomplete.jsp" method="get">
+    <fieldset>
+        <legend>join page</legend>
+    <table>
+        <div>Name : <input type="text" name="name"></div>
+        <div>ID : <input type="text" name="id"></div>
+        <div>PWD : <input type="text" name="pwd"></div>
+        <div>PWD Invalid: <input type="text" name="pwdinvalid"></div>
+
+    </table>
+    </fieldset>
+</form>
+</body>
+</html>

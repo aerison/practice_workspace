@@ -1,0 +1,18 @@
+2018-10-22 10:49:33,021 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-22 13:40:13,142 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-22 13:41:34,108 [Worker-20] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\workspace10\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2018-10-22 13:41:34,205 [Worker-20] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\workspace10\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2018-10-22 13:42:39,432 [Worker-12] INFO  j.exodus.env.EnvironmentImpl - Store get cache hit rate: 0.0%
+2018-10-22 13:42:39,432 [Worker-12] INFO  j.exodus.env.EnvironmentImpl - Tree nodes cache hit rate: 0.0%
+2018-10-22 13:42:39,432 [Worker-12] INFO  j.exodus.env.EnvironmentImpl - Exodus log cache hit rate: 0.0%
+2018-10-22 13:47:53,788 [Worker-9] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\workspace10\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2018-10-23 10:14:33,106 [Worker-8] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-23 10:17:02,918 [Worker-16] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\workspace10\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2018-10-23 10:17:02,991 [Worker-16] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\workspace10\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2018-10-23 10:25:26,885 [Worker-24] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\workspace10\.metadata\com.genuitec.eclipse.webclipse.livepreview\2\store
+2018-10-23 15:26:46,599 [Worker-197] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\workspace10\.metadata\com.genuitec.eclipse.webclipse.livepreview\3\store
+2018-10-24 09:24:54,322 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-10-24 09:25:17,160 [Worker-9] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\workspace10\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store
+2018-10-24 09:25:17,357 [Worker-9] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\workspace10\.metadata\com.genuitec.eclipse.webclipse.livepreview\1\store
+2018-10-24 13:14:59,662 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-24 13:16:05,912 [Worker-2] INFO  j.exodus.env.EnvironmentImpl - Exodus environment created: C:\workspace10\.metadata\com.genuitec.eclipse.webclipse.livepreview\0\store

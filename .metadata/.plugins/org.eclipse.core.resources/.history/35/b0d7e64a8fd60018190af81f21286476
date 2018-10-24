@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>login page</title>
+<style>
+div{
+    border: 1px;
+}
+</style>
+</head>
+<body>
+<form action="login.jsp" method="get">
+<fieldset>
+    <legend>Login Page</legend>
+    <div>ID : <input type="text" name="id"></div>
+    <div>PWD : <input type="text" name="pwd"></div>
+    <div><input type="submit" value="login"></div><br>
+    <a href="index.html">Home</a>
+</fieldset>
+</form>
+</body>
+</html>

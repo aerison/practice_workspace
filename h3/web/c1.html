@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>id and class test</title>
+<style>
+#hh1{    
+    color: white;
+    background: black;
+    } 
+    /* if you want to access id(must be unique), use # */
+    /* order is a matter */
+#s1{
+    color: red;
+}
+.c1{
+    color: yellow;
+    background: blue;
+}
+    /* wanna access class, use . */
+
+h1{
+    color: white;
+    background: black;
+}
+
+</style>
+</head>
+<body>
+<h1 id="hh1" class="c1">Header1</h1> <!--id takes precedence-->
+<h1 class="c1">Header2</h1>
+<h1 class="c2">Header3</h1>
+<h1>Header<span id="s1">4</span></h1>
+<h1>Header5</h1>
+<p>P tag</p>
+</body>
+</html>

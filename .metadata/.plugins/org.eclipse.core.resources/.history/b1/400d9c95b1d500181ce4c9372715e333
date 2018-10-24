@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+<style>
+h1{
+	color:blue;
+	background:yellow;
+		}
+</style>
+</head>
+<body>
+<button>clickme</button>
+<h3>늬들이 뭐길래 유명하닝</h3>
+<img src="c1.jpg">
+<img src="c2.jpg">
+</body>
+</html>

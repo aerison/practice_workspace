@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>linktest</title>
+</head>
+<body>
+    <h1>link test</h1>
+    <a href="http://www.naver.com" target="_blank">naver</a><br> <!--new page popup-->
+    <h1><a href="http://www.daum.net">daum</a></h1>
+    <a href="h4.html">List</a>
+    <a href="#id01">ID</a> <!--follow id="id01"-->
+    <a href="apach.zip">apach download</a> <!--download zip-->
+    <h1>text1</h1>
+    <h1>text1</h1>
+    <h1 id="id01">text1</h1>
+    <h1>text1</h1>
+    <h1>text1</h1>
+    <h1>text1</h1>
+    <h1>text1</h1>
+    <h1>text1</h1>
+
+</body>
+</html>

@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Audio Test</title>
+</head>
+<body>
+<h1>audio test</h1>
+<audio src="Kalimba.mp3" autoplay controls></audio> <!--autoplay and cast controls-->
+<audio src="Kalimba.mp3" autoplay loop></audio> <!--autoplay and cast controls-->
+
+<h1>video test</h1>
+<video src="https://media.w3.org/2010/05/bunny/movie.org" controls></video>
+</body>
+</html>

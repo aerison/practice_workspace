@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="EUC-KR">
+    <title>parent</title>
+    <style>
+        p:nth-child(1) {
+            /* (2n+1) even    (2n+0) odd numbered item */
+            color: red;
+        }
+
+        #main_div > #left_div>p:nth-child(2n+1) {
+            color: blue;
+        }
+
+        #redp {
+            color: red;
+        }
+
+       #main_div .head_text {
+            color: green;
+        }
+
+        .sentence_Green {
+            color: green;
+        }
+        #main_div > input{
+            background: yellow;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="main_div">
+        <div id="left_div">
+            <p>Paragraph</p>
+            <p>Paragraph</p>
+            <p>
+                <span id="redp">P</span>aragraph</p>
+            <p>
+                <span class="head_text">P</span>aragraph</p>
+            <p>Paragraph</p>
+            <p class="sentence_Green">Paragraph</p>
+        </div>
+        ID<input type="text" name="id">
+        <br> 
+        PWD<input type="password" name="pwd">
+        <br>
+    </div>
+</body>
+
+</html>

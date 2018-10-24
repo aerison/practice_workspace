@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>linktest</title>
+</head>
+<body>
+    <h1>link test</h1>
+    <a href="http://www.naver.com">naver</a><br>
+    <h1><a href="http://www.daum.net">daum</a></h1>
+    <a href="h4.html">List</a>
+
+</body>
+</html>

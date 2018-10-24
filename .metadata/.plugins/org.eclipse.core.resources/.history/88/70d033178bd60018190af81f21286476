@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+<form>
+    <fieldset>
+        <legend>register form</legend>
+Date<input type="date" name="date"><br>
+Color<input type="color" name="color"><br>
+Mail<input required type="email" name="email"><br>
+Tel<input type="tel" name="tel"><br>
+Range<input type="range" name="range"><br>
+Number<input type="num" name="num" value="100" readonly><br> <!--not modified-->
+    <input type="submit" value="register">
+    </fieldset>
+</form>
+</body>
+</html>

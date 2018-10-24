@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>table test</title>
+<style>
+table{
+    width:300px;
+    height: 100px;
+}
+</style>
+</head>
+<body>
+<h1>table test</h1>
+<table border="1">
+    <thead><tr><th>Name</th><th>ID</th></tr>
+   </thead>
+    <tbody>
+    <tr><td>aaron</td><td>dfadf</td></tr>
+     <tr><td>aaron</td><td>dfadf</td></tr>
+    </tbody>
+</table>
+</body>
+</html>

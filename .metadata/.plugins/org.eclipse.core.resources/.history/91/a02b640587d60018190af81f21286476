@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+<style>
+form{
+    width:250px;
+    height: 300px;
+    background: yellow;
+    font-style: initial;
+}
+span{
+    width: 250px;
+    height: 100px;
+}
+</style>
+</head>
+<body>
+<h1>form test</h1>
+<form action="a.jsp" method="get">
+    <!--form :cast everything btw form to form to server(a.jsp)-->
+    
+    <fieldset>
+    <legend>user register form</legend>
+    <table>
+        <tbody>
+            ID &nbsp;<input type="text" name="id"><br> 
+            PWD &nbsp;<input type="text" name="pwd"><br>
+    <input type="reset" value="reset"><br>
+    <!--radio checkbox-->
+    <label for="male">Male</label>
+    <input id="male" type="radio" name="gender" value="m"> <!--must need value(thing casted to server)-->
+    <label for="female">female</label>
+    <input id="female" type="radio" name="gender" value="f">
+ 
+   
+   <!--multi content transmit-->
+    Training<input type="checkbox" name="hobby" value="t">
+    Music<input type="checkbox" name="hobby" value="m">
+    TV<input type="checkbox" name="hobby" value="tv">
+    
+    <br>
+    <!--file-->
+    File<input type="file" name="img">
+    <br>
+    <!--select-->
+    <select name="car">
+        <option value="k1">K1</option>
+        <option value="k2">K2</option>
+        <option value="k3">K3</option>
+        <option value="k4">K4</option>
+        <option value="k5">K5</option>
+    </select>
+    <br>
+    <input type="hidden" name="loginid" value="kim">
+    <!--invisible, but when you press register,loginid=kim casted to server -->
+    <!--it will be used like basket func-->
+    <!--hidden must be in form to form-->
+    <br>
+    <!--text area-->
+    resume<textarea cols="80" rows="10" name="resume"></textarea>
+    <br>
+    <input type="submit" value="register">
+</tbody>
+</table>
+</fieldset>
+</form>
+</body>
+</html>

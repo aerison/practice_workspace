@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Table test2</title>
+<style>
+    table{
+        width:200px;
+        height:200px;
+    }
+</style>
+</head>
+<body>
+    <table border="1">
+        <caption>recent movie</caption>
+        <thead>
+            <tr><th>1</th><th>2</th><th>3</th></tr>
+        </thead>
+        <tbody>
+            <tr><td rowspan="2">12 merge</td><td>1</td></tr>
+            <tr><td>1</td><td>1</td><td>1</td></tr>
+            <tr><td>1</td><td>1</td><td>1</td></tr>
+        </tbody>
+    </table>
+
+</body>
+</html>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+<style>
+    #hh1{    
+        color: white;
+        background: black;
+    } 
+    /* if you want to access id(must unique), use # */
+    /* order is a matter */
+.c1{
+    color: yellow;
+    background: blue;
+}
+
+h1{
+    color: red;
+    background: black;
+}
+
+</style>
+</head>
+<body>
+<h1 id="hh1">Header1</h1>
+<h1 class="c1">Header2</h1>
+<h1 class="c2">Header3</h1>
+<h1>Header4</h1>
+<h1>Header5</h1>
+<p>P tag</p>
+</body>
+</html>

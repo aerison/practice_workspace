@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Table test2</title>
+<style>
+    table{
+        width:200px;
+        height:200px;
+    }
+</style>
+</head>
+<body>
+    <table border="1">
+        <caption>recent movie</caption>
+        <thead>
+            <tr>
+                <th>1col</th>
+                <th>2col</th>
+                <th>3col</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td rowspan="2">1row 1col</td>
+                <td>2row</td>
+                <td>3row</td>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td colspan="3">1</td>
+                
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
