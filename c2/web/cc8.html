@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="EUC-KR">
+    <title>block</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            color: white;
+            font-size: 5px;
+        }
+
+        div {
+            width: 100px;
+            height: 100px;
+            float: left;
+        }
+
+        .outter {
+            width: 300px;
+            height: 100px;
+            left: 100px;
+            right: 100px;
+            top: 50px;
+            position: fixed;
+            overflow: hidden;
+        }
+        .outter2 {
+            width: 300px;
+            height: 100px;
+            left: 100px;
+            right: 100px;
+            top: 150px;
+            position: fixed;
+            overflow: hidden;
+        }
+
+        /* .outter{
+            width: 300px;
+            border: 5px solid #28E7FF;
+            height: 300px;
+            left: 100px;
+            right: 100px;
+            top: 50px;
+            position: fixed;
+            overflow: hidden;
+         
+
+        } */
+
+        #a_div {
+            background: pink;
+        }
+
+        #b_div {
+            background: blue;
+        }
+
+        #c_div {
+            background: yellow;
+
+
+        }
+
+        #d_div {
+            background: purple;
+
+        }
+    </style>
+</head>
+
+<body>
+    <div class="outter">
+        <div class="inner" id="a_div">
+            <h1>A</h1>
+        </div>
+        <div class="inner" id="b_div">
+            <h1>B</h1>
+        </div>
+        <div class="inner" id="c_div">
+            <h1>C</h1>
+        </div>
+        <!-- <div class="inner" id="d_div">
+            <h1>D</h1>
+        </div> -->
+    </div>
+    <div class="outter2">
+        <div class="inner" id="b_div">
+            <h1>A</h1>
+        </div>
+        <div class="inner" id="c_div">
+            <h1>B</h1>
+        </div>
+        <div class="inner" id="a_div">
+            <h1>C</h1>
+        </div>
+        <!-- <div class="inner" id="d_div">
+            <h1>D</h1>
+        </div> -->
+    </div>
+
+
+</body>
+
+</html>

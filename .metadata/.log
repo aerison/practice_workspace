@@ -5222,3 +5222,122 @@ org.eclipse.jface.text.BadLocationException
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:653)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:590)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1499)
+!SESSION 2018-10-25 09:16:24.114 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180330-0640
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.genuitec.eclipse.code.ui 1 0 2018-10-25 09:17:00.681
+!MESSAGE CodeMix Engine will be started momentarily to support development activities
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-10-25 09:17:12.990
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\student'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2018-10-25 09:17:15.868
+!MESSAGE CodeMix Engine engine has been started
+
+!ENTRY org.eclipse.jface.text 2 0 2018-10-25 09:20:08.371
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-10-25 09:20:08.371
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.ui 4 4 2018-10-25 14:34:30.817
+!MESSAGE Plug-in 'com.genuitec.eclipse.code' contributed an invalid Menu Extension (Path: 'help/com.eclipse.genuitec.codemixgroup' is invalid): com.genuitec.codemix.upgradelicenseaction
+
+!ENTRY org.eclipse.ui 4 4 2018-10-25 14:34:30.832
+!MESSAGE Plug-in 'com.genuitec.eclipse.code' contributed an invalid Menu Extension (Path: 'help/com.eclipse.genuitec.codemixgroup' is invalid): com.genuitec.codemix.openforumaction
+!SESSION 2018-10-25 14:35:47.304 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180330-0640
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.genuitec.eclipse.code.ui 1 0 2018-10-25 14:35:55.127
+!MESSAGE CodeMix Engine will be started momentarily to support development activities
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2018-10-25 14:36:04.607
+!MESSAGE CodeMix Engine needs to be installed as an old version detected
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-10-25 14:36:04.612
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\student'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.genuitec.eclipse.code.core 4 0 2018-10-25 14:36:36.451
+!MESSAGE Unable to delete directory C:\Users\student\.codemix\engine\resources\app\extensions\emmet\node_modules\vscode-emmet-helper.
+!STACK 0
+java.io.IOException: Unable to delete directory C:\Users\student\.codemix\engine\resources\app\extensions\emmet\node_modules\vscode-emmet-helper.
+	at org.apache.commons.io.FileUtils.deleteDirectory(FileUtils.java:1471)
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:2097)
+	at org.apache.commons.io.FileUtils.cleanDirectory(FileUtils.java:1583)
+	at org.apache.commons.io.FileUtils.deleteDirectory(FileUtils.java:1465)
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:2097)
+	at org.apache.commons.io.FileUtils.cleanDirectory(FileUtils.java:1583)
+	at org.apache.commons.io.FileUtils.deleteDirectory(FileUtils.java:1465)
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:2097)
+	at org.apache.commons.io.FileUtils.cleanDirectory(FileUtils.java:1583)
+	at org.apache.commons.io.FileUtils.deleteDirectory(FileUtils.java:1465)
+	at org.apache.commons.io.FileUtils.forceDelete(FileUtils.java:2097)
+	at org.apache.commons.io.FileUtils.cleanDirectory(FileUtils.java:1583)
+	at org.apache.commons.io.FileUtils.deleteDirectory(FileUtils.java:1465)
+	at com.genuitec.eclipse.code.core.engine.app.AbstractEngine.removeDirectory(AbstractEngine.java:209)
+	at com.genuitec.eclipse.code.core.engine.app.AbstractEngine.remove(AbstractEngine.java:191)
+	at com.genuitec.eclipse.code.core.engine.app.EngineManager.update(EngineManager.java:288)
+	at com.genuitec.eclipse.code.core.engine.app.EngineManager.initialize(EngineManager.java:78)
+	at com.genuitec.eclipse.code.core.engine.EngineService.start(EngineService.java:130)
+	at com.genuitec.eclipse.code.ui.CodeService.start(CodeService.java:280)
+	at com.genuitec.eclipse.code.ui.CodeUI$1.run(CodeUI.java:135)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56)
+
+!ENTRY com.genuitec.eclipse.code.core 4 0 2018-10-25 14:36:36.462
+!MESSAGE CodeMix Engine update failed - the current engine could not be deleted from the filesystem.
+
+!ENTRY com.genuitec.eclipse.code.core 4 0 2018-10-25 14:36:36.465
+!MESSAGE CodeMix Engine update failed - the current engine could not be stopped.
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2018-10-25 14:37:19.555
+!MESSAGE Relocating CodeMix extensions into private area, will leave .vscode/extensions intact
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2018-10-25 14:38:03.031
+!MESSAGE CodeMix Engine engine has been started
+!SESSION 2018-10-25 14:40:26.103 -----------------------------------------------
+eclipse.buildId=4.7.3.M20180330-0640
+java.version=1.8.0_181
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY com.genuitec.eclipse.code.ui 1 0 2018-10-25 14:43:21.275
+!MESSAGE CodeMix Engine will be started momentarily to support development activities
+
+!ENTRY org.eclipse.egit.ui 2 0 2018-10-25 14:43:43.703
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\student'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.genuitec.eclipse.code.core 1 0 2018-10-25 14:43:47.011
+!MESSAGE CodeMix Engine engine has been started
+
+!ENTRY org.eclipse.jface.text 2 0 2018-10-25 14:44:16.659
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-10-25 14:44:16.660
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2018-10-25 15:06:47.255
+!MESSAGE Several ports (8005, 80, 8009) required by Tomcat v9.0 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).

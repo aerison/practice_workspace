@@ -13,6 +13,9 @@
       "path": "C:\\workspace10\\Servers"
     },
     {
+      "path": "C:\\workspace10\\c2"
+    },
+    {
       "path": "C:\\workspace10\\h3"
     }
   ],
@@ -20,7 +23,6 @@
     "javascript.referencesCodeLens.enabled": true,
     "typescript.implementationsCodeLens.enabled": true,
     "typescript.referencesCodeLens.enabled": true,
-    "javascript.implicitProjectConfig.checkJs": true,
     "htmlhint.options": {
       "attr-value-double-quotes": true,
       "attr-no-duplication": true,

@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>margin and padding</title>
+<style>
+    *{
+        margin: 0;
+        padding: 0; /* remove all default */
+    }
+h2{
+    width: 200px;
+    border:10px outset blue; /*outset = 3d effect */
+    border-radius: 10px 10px 10px 10px;
+    padding:10px 10px 10px 10px; /* inner space -- clockwise */
+    margin:10px 10px 10px 10px; /*  */
+    padding-left: 10px; 
+    /* box-shadow: 10px 10px 10px 10px red; */
+}
+h2:hover{
+     box-shadow: 10px 10px 10px 10px red;
+     border-radius: 10px 10px 10px 10px;
+}
+div{
+    border: 1px solid green; /* vacant space that exists is default */  
+    width: 300px;
+    height: auto;
+    resize: both;
+    overflow: auto;  /* resize using drag */
+}
+</style>
+</head>
+<body>
+    <h1>Margin and padding</h1>
+    <div>
+        <h2>Inner area</h2>
+    </div>
+
+</body>
+</html>

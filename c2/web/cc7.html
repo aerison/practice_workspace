@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="EUC-KR">
+    <title>div</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            color: white;
+            font-size: 5px;
+        }
+
+        div {
+            width: 300px;
+            height: 300px;
+            opacity: 0.8
+        }
+        .outter{
+            width: 300px;
+            border: 5px solid #28E7FF;
+            height: 300px;
+            left: 100px;
+            right: 100px;
+            top: 50px;
+            position: fixed;
+            overflow: auto;
+         
+
+        }
+
+        #a_div {
+            background: pink;
+            position: absolute;
+            left: 80;
+            top: 80;
+            z-index: 1;
+        }
+
+        #b_div {
+            background: green;
+            position: absolute;
+            left: 30px;
+            top: 30px;
+            z-index: 5;
+            /*up and down*/
+        }
+
+        #c_div {
+            background: yellow;
+            position: absolute;
+            top: 100px;
+            left: 100px;
+            z-index: 3;
+
+        }
+
+        #d_div {
+            background: purple;
+            position: absolute;
+            top: 130px;
+            left: 130px;
+            z-index: 8;
+
+        }
+    </style>
+</head>
+
+<body>
+    <div class="outter">
+        <div class="inner" id="a_div">
+            <h1>A</h1>
+        </div>
+        <div class="inner" id="b_div">
+            <h1>B</h1>
+        </div>
+        <div class="inner" id="c_div">
+            <h1>C</h1>
+        </div>
+        <div class="inner" id="d_div">
+            <h1>D</h1>
+        </div>
+    </div>
+
+
+</body>
+
+</html>
